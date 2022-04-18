@@ -14,7 +14,7 @@ Average fare per ride showed that on average fares were most expensive in rural 
 
 Rural cities did have the highest average fare per driver with a average of 55 per driver. This is in great contrast to suburban fares at 39.50 and urban cities at 16.57.
 
-![Results](/Analysis/PyBer_fare_summary.PNG)
+![Results](/Analysis/PyBer_fare_summary.png)
 
 ## Summary
 ### Recommendations
